@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5433,
+            "driver": "PostgreSQL",
+            "name": "PG Admin",
+            "group": "Retail_analytics",
+            "database": "online_retail_II",
+            "username": "postgres"
+        }
+    ]
+}

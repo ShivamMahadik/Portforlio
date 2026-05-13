@@ -1,0 +1,7 @@
+# Raw data files (too large for Git)
+*.csv
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
